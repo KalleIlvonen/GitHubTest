@@ -11,6 +11,6 @@ public class UITest : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log("Vaude");
     }
 }
